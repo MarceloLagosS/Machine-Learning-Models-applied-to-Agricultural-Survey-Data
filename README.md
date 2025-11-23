@@ -1,0 +1,1 @@
+This project uses answers saved on Stata files to create a compressed dataset using both binary and continous features. Due to being a work in progress, the answers are not publicly available, but the code can be used on databases generated from similar questionnaires (see "3 Cuestionario de la encuesta.pdf")
